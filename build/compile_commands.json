@@ -1,0 +1,27 @@
+[
+{
+  "directory": "/home/oab/Documents/CppND-Memory-Management-Chatbot/build",
+  "command": "/usr/bin/x86_64-linux-gnu-g++-9  -DWXUSINGDLL -D_FILE_OFFSET_BITS=64 -D__WXGTK__ -isystem /usr/local/lib/wx/include/gtk2-unicode-3.1 -isystem /usr/local/include/wx-3.1   -pthread -g   -std=gnu++17 -o CMakeFiles/membot.dir/src/chatbot.cpp.o -c /home/oab/Documents/CppND-Memory-Management-Chatbot/src/chatbot.cpp",
+  "file": "/home/oab/Documents/CppND-Memory-Management-Chatbot/src/chatbot.cpp"
+},
+{
+  "directory": "/home/oab/Documents/CppND-Memory-Management-Chatbot/build",
+  "command": "/usr/bin/x86_64-linux-gnu-g++-9  -DWXUSINGDLL -D_FILE_OFFSET_BITS=64 -D__WXGTK__ -isystem /usr/local/lib/wx/include/gtk2-unicode-3.1 -isystem /usr/local/include/wx-3.1   -pthread -g   -std=gnu++17 -o CMakeFiles/membot.dir/src/chatgui.cpp.o -c /home/oab/Documents/CppND-Memory-Management-Chatbot/src/chatgui.cpp",
+  "file": "/home/oab/Documents/CppND-Memory-Management-Chatbot/src/chatgui.cpp"
+},
+{
+  "directory": "/home/oab/Documents/CppND-Memory-Management-Chatbot/build",
+  "command": "/usr/bin/x86_64-linux-gnu-g++-9  -DWXUSINGDLL -D_FILE_OFFSET_BITS=64 -D__WXGTK__ -isystem /usr/local/lib/wx/include/gtk2-unicode-3.1 -isystem /usr/local/include/wx-3.1   -pthread -g   -std=gnu++17 -o CMakeFiles/membot.dir/src/chatlogic.cpp.o -c /home/oab/Documents/CppND-Memory-Management-Chatbot/src/chatlogic.cpp",
+  "file": "/home/oab/Documents/CppND-Memory-Management-Chatbot/src/chatlogic.cpp"
+},
+{
+  "directory": "/home/oab/Documents/CppND-Memory-Management-Chatbot/build",
+  "command": "/usr/bin/x86_64-linux-gnu-g++-9  -DWXUSINGDLL -D_FILE_OFFSET_BITS=64 -D__WXGTK__ -isystem /usr/local/lib/wx/include/gtk2-unicode-3.1 -isystem /usr/local/include/wx-3.1   -pthread -g   -std=gnu++17 -o CMakeFiles/membot.dir/src/graphedge.cpp.o -c /home/oab/Documents/CppND-Memory-Management-Chatbot/src/graphedge.cpp",
+  "file": "/home/oab/Documents/CppND-Memory-Management-Chatbot/src/graphedge.cpp"
+},
+{
+  "directory": "/home/oab/Documents/CppND-Memory-Management-Chatbot/build",
+  "command": "/usr/bin/x86_64-linux-gnu-g++-9  -DWXUSINGDLL -D_FILE_OFFSET_BITS=64 -D__WXGTK__ -isystem /usr/local/lib/wx/include/gtk2-unicode-3.1 -isystem /usr/local/include/wx-3.1   -pthread -g   -std=gnu++17 -o CMakeFiles/membot.dir/src/graphnode.cpp.o -c /home/oab/Documents/CppND-Memory-Management-Chatbot/src/graphnode.cpp",
+  "file": "/home/oab/Documents/CppND-Memory-Management-Chatbot/src/graphnode.cpp"
+}
+]
